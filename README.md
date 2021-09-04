@@ -10,4 +10,13 @@ The dataset consists of a column or feature named ‘satisfaction’ which descr
 ## Steps Followed
 ![Screenshot 2021-09-04 115903](https://user-images.githubusercontent.com/77155721/132085296-a3a857db-677a-4825-aa44-423526255661.png)
 
+After Data pre-processing, EDA and feature selection I performed feature engineering in which I scaled my data
+using Standard Scaler. It will scale my data between 0 and 1 or at least all my features will be in same range .If
+we do not scale our data so as we can see the some data range lies in 100’s some in 1000 some in 50’s, while
+prediction our model will automatically give importance to feature with high range so for that we perform
+standard scaling. And for Categorical data I have performed Label Encoding to scale my values.
+Final Dataset on which we will be applying Machine Learning Algorithms.
+
+
+
 
