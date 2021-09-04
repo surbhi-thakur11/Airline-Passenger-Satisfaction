@@ -22,7 +22,12 @@ Final Dataset on which we will be applying Machine Learning Algorithms.
 After applying various algorithm found out Random Forest Algorithm gave the best results. 
 And then I dumped the model into pickle file for deployment and to prepare the .py file.
 
-### final project after deployment looked like
+### final project after deployment 
+
+![Screenshot 2021-09-04 121148](https://user-images.githubusercontent.com/77155721/132085477-e593a466-4edd-4ef7-bc55-f83dc839fd88.png)
+
+![Screenshot 2021-09-04 121210](https://user-images.githubusercontent.com/77155721/132085479-b042f9e7-3207-4aca-b0e4-c55f7ad1661f.png)
+
 
 
 
