@@ -1,5 +1,8 @@
 # Airline-Passenger-Satisfaction
 
+![bb1c4a72d7877f403100bb7cea9fd670](https://user-images.githubusercontent.com/77155721/132086421-0de6eef3-b7d5-46fb-aade-349bcaf7d645.jpg)
+
+
 ## Overview of the problem:
 The main aim of this problem statement is to predict whether the customer is satisfied with his/her airplane experience or not. This problem comes under classification and this classification is done on the basis of passenger information and ratings given by him/her.   
 
