@@ -34,8 +34,7 @@ Deployed model: https://airline-passenger-satisfaction.herokuapp.com/
 
 Dataset link: https://www.kaggle.com/teejmahal20/airline-passenger-satisfaction
 
-LinkedIn video: https://www.linkedin.com/posts/surbhi-thakur11_datascience-python-internship-
-activity-6804736974352633856-HS93
+LinkedIn video: https://www.linkedin.com/posts/surbhi-thakur11_datascience-python-internship-activity-6804736974352633856-HS93
 
 
 
