@@ -16,6 +16,7 @@ we do not scale our data so as we can see the some data range lies in 100’s so
 prediction our model will automatically give importance to feature with high range so for that we perform
 standard scaling. And for Categorical data I have performed Label Encoding to scale my values.
 Final Dataset on which we will be applying Machine Learning Algorithms.
+![Screenshot 2021-09-04 120830](https://user-images.githubusercontent.com/77155721/132085411-3457eab8-e76f-4544-ac35-a1e874e59828.png)
 
 
 
