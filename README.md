@@ -28,6 +28,15 @@ And then I dumped the model into pickle file for deployment and to prepare the .
 
 ![Screenshot 2021-09-04 121210](https://user-images.githubusercontent.com/77155721/132085479-b042f9e7-3207-4aca-b0e4-c55f7ad1661f.png)
 
+Here is the link for my model and linkedIn video:
+
+Deployed model: https://airline-passenger-satisfaction.herokuapp.com/
+
+Dataset link: https://www.kaggle.com/teejmahal20/airline-passenger-satisfaction
+
+LinkedIn video: https://www.linkedin.com/posts/surbhi-thakur11_datascience-python-internship-
+activity-6804736974352633856-HS93
+
 
 
 
