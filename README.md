@@ -8,4 +8,6 @@ The dataset for this project is attained from Kaggle which contains the data sou
 The dataset consists of a column or feature named ‘satisfaction’ which describes the overall satisfaction level of the customer. It has two values, ‘neutral or dissatisfied’ and ‘satisfied’. This satisfaction feature is considered as the label feature since it conveys the overall experience of the customer based on the ratings given for other features.
 
 ## Steps Followed
+![Screenshot 2021-09-04 115903](https://user-images.githubusercontent.com/77155721/132085296-a3a857db-677a-4825-aa44-423526255661.png)
+
 
